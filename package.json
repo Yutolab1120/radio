@@ -1,0 +1,23 @@
+{
+  "name": "radio",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "firebase": "^6.3.5",
+    "rythm.js": "^2.2.5",
+    "skyway-js": "^2.0.2",
+    "vue": "^2.6.10",
+    "vue-loader": "^15.7.1",
+    "vue-router": "^3.1.2",
+    "vue-template-compiler": "^2.6.10",
+    "webpack": "^4.39.1"
+  },
+  "devDependencies": {
+    "webpack-cli": "^3.3.6"
+  },
+  "scripts": {
+    "build": "./node_modules/.bin/webpack",
+    "serve": "firebase serve -o 0.0.0.0"
+  }
+}

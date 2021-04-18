@@ -1,0 +1,45 @@
+.header{
+  margin-bottom: 8%;
+  margin-top: 2%;
+}
+
+.user{
+  float: right;
+  margin-right: 10%;
+  text-align: center;
+}
+
+.icon{
+  width: 50px;
+  border-radius: 50px;
+}
+
+.title{
+  font-size: 250%;
+  margin-left: 5%;
+}
+
+.broadcasat{
+  text-align: center;
+}
+
+.broadcastIcon{
+  width: 200px;
+  border-radius: 50px;
+  margin-top: 5%;
+}
+
+.hostIcon{
+  text-align: center;
+}
+
+.box{
+  width: 100px;
+  height: 100px;
+  background-color: slategray;
+  margin: auto;
+}
+
+.finish{
+  margin-bottom:5%;
+}
